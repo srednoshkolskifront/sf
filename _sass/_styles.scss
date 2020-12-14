@@ -166,7 +166,7 @@ input {
 }
 
 .post {
-    @include column(8);
+    @include column(10);
     max-width: 750px;
     display: block;
     margin: 0 auto;
