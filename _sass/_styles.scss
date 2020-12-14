@@ -166,7 +166,7 @@ input {
 }
 
 .post {
-    @include column(10);
+    @include column(8);
     max-width: 750px;
     display: block;
     margin: 0 auto;
@@ -587,7 +587,7 @@ header.site-header nav {
     .share {
         text-align: center;
         display: block;
-        margin: 0 auto;
+        margin: 100 auto;
         width: 76px;
         font-size: $fs5;
         font-family: $sans;
