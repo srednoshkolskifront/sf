@@ -12,6 +12,7 @@ owner:
   twitter:        srednoshkolskifront
   github:         srednoshkolskifront
   instagram:      srednoshkolskifront
+  facebook:       srednoshkolskifront
   dribbble:       
   disqus:         
   location:       Скопје, Македонија
@@ -28,8 +29,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+  - title: За нас
+    url: /за_нас
 #  - title: Cole Who?
 #    url: http://coletownsend.com
 #    external: true
